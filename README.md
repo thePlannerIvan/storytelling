@@ -47,7 +47,7 @@
 
 ### 1. 安装
 
-**DSH 用户**：通过 [Planners Form](https://github.com/thePlannerIvan/planners-form) 安装 `planners-proposal-system` 或 `planners-bypage` 时会一并装好；之后在对话中可直接呼出 `storytelling`。
+**DSH 用户**：通过 [Planners Form](https://github.com/thePlannerIvan/planners-form) 安装 `planners-proposal` 或 `planners-bypage` 时会一并装好；之后在对话中可直接呼出 `storytelling`。
 
 **Codex / Claude Code 用户：**
 
